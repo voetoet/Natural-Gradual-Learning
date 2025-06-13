@@ -67,6 +67,11 @@ Improves future reasoning patterns without saving any user-specific data.
 
 ---
 
+## 📘 Want to Learn More?
+Check the full [SOP 1.04 Overview](docs/overview.md) for module structure and ethical reasoning principles.
+
+---
+
 ## 🔍 Modular Simulation Cases
 
 These real-world case studies demonstrate how NGL SOP 1.04 handles ethically complex or ambiguous prompts:
